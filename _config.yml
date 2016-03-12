@@ -5,7 +5,7 @@ meta_description: "agutec.com, Blogging about some Linux stuff"
 aboutPage: true
 
 markdown: redcarpet
-highlighter: pygments
+highlighter: rouge
 
 gems: [jekyll-paginate]
 paginate: 20

@@ -17,7 +17,7 @@ disqus: false
 disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
-url:            'http://blog.agutec.com'
+url:            'http://agutec.com'
 author:         'Alexey Gutkin'
 authorTwitter:  'YourTwitterUsername'
 

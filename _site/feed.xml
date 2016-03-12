@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>agutec</title>
+    <description>Blogging About Some Linux Stuff</description>
+    <link>http://blog.agutec.com</link>
+    <atom:link href="http://blog.agutec.com/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Hello World!</title>
+        
+        
+          <description>&lt;p&gt;This website is built using &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;. Content is primarily written in &lt;a href=&quot;https://daringfireball.net/projects/markdown/&quot;&gt;Markdown&lt;/a&gt;.&lt;/p&gt;
+</description>
+        
+        <pubDate>Sat, 12 Mar 2016 00:00:00 +0200</pubDate>
+        <link>http://blog.agutec.com/2016/hello-world/</link>
+        <guid isPermaLink="true">http://blog.agutec.com/2016/hello-world/</guid>
+      </item>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        
+        
+          <description>&lt;p&gt;You&amp;#39;ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
+To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
+</description>
+        
+        <pubDate>Sun, 10 Nov 2013 12:18:00 +0200</pubDate>
+        <link>http://blog.agutec.com/2013/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://blog.agutec.com/2013/welcome-to-jekyll/</guid>
+      </item>
+    
+  </channel>
+</rss>
